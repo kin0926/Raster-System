@@ -1,0 +1,36 @@
+header nav a{
+	border: 1px solid red;
+	border-collapse: collapse;
+	text-align: center;
+}
+.shang{
+	border-top: 1px solid #ccc;
+	padding: 20px 0;
+}
+img{
+	width: 100%
+}
+.shang a{
+	color: skyblue;
+	text-decoration: none;
+}
+div a:hover{
+	color: skyblue;
+	text-decoration: none;
+}
+nav a:hover{
+	background-color: pink;
+	color: black;
+}
+.gao{
+	font-size: 34px;
+	text-align: center;
+	background: url(https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2056641374,3018648321&fm=26&gp=0.jpg);
+	opacity:0.8;   /*透明度*/
+	margin-top: 20px;
+	height: 250px;
+	line-height: 230px;
+}
+img{
+	width: 100%
+}
